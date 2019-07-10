@@ -48,5 +48,5 @@ There is a refresh bug so each time page is refreshed it losses users details
 
 The leaderboard bug puts the lowest scoring individual at the base of the chart
 
-An original extension was also to offset a carbon score by adding the ability or at least the calculation and loction
+An original extension was also to offset a carbon score by adding the ability or at least the calculation and location
 of carbon credits but it was deemed as a nice to have and we ran out of time. 
