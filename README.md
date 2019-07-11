@@ -33,13 +33,19 @@ We achieved MVP that calculated an individual score and added an extension of ra
 Installation: - 
 
 cd server
+
 npm i
+
 mongod
+
 npm run server:dev
 
 cd ..
+
 cd client
+
 npm i
+
 npm run serve
 
 Future Extensions/ Bugs: - 
