@@ -1,4 +1,4 @@
-# Group-Project-JS-Vue-MongoDB
+# Group-Project
 
 Overview:  -
 
